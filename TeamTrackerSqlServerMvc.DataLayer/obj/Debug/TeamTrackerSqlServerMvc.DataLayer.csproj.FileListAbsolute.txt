@@ -1,0 +1,10 @@
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\TeamTrackerSqlServerMvc.DataLayer.exe.config
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\TeamTrackerSqlServerMvc.DataLayer.exe
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\TeamTrackerSqlServerMvc.DataLayer.pdb
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.dll
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.xml
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.csproj.CopyComplete
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.exe
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.pdb

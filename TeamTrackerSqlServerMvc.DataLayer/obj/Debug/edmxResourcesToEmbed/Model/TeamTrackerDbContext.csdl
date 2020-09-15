@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TeamTrackerModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Team">
+    <Key>
+      <PropertyRef Name="TeamName" />
+    </Key>
+    <Property Name="TeamName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="TeamManager" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="DomainOfWork" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="TeamMembers" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="TeamUser">
+    <Key>
+      <PropertyRef Name="LastName" />
+    </Key>
+    <Property Name="FirstName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="LastName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Email" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="UserType" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Status" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="InterviewStatus" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="ReportingTo" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Mobile" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="TeamTrackerDBContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Teams" EntityType="Self.Team" />
+    <EntitySet Name="TeamUsers" EntityType="Self.TeamUser" />
+  </EntityContainer>
+</Schema>

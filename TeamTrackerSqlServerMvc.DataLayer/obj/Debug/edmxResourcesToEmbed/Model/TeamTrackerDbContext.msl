@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TeamTrackerModelStoreContainer" CdmEntityContainer="TeamTrackerDBContext">
+    <EntitySetMapping Name="Teams">
+      <EntityTypeMapping TypeName="TeamTrackerModel.Team">
+        <MappingFragment StoreEntitySet="Team">
+          <ScalarProperty Name="TeamName" ColumnName="TeamName" />
+          <ScalarProperty Name="TeamManager" ColumnName="TeamManager" />
+          <ScalarProperty Name="DomainOfWork" ColumnName="DomainOfWork" />
+          <ScalarProperty Name="TeamMembers" ColumnName="TeamMembers" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TeamUsers">
+      <EntityTypeMapping TypeName="TeamTrackerModel.TeamUser">
+        <MappingFragment StoreEntitySet="TeamUsers">
+          <ScalarProperty Name="FirstName" ColumnName="FirstName" />
+          <ScalarProperty Name="LastName" ColumnName="LastName" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="UserType" ColumnName="UserType" />
+          <ScalarProperty Name="Status" ColumnName="Status" />
+          <ScalarProperty Name="InterviewStatus" ColumnName="InterviewStatus" />
+          <ScalarProperty Name="ReportingTo" ColumnName="ReportingTo" />
+          <ScalarProperty Name="Mobile" ColumnName="Mobile" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
