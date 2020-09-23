@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamTrackerSqlServerMvc.Bus
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamTrackerSqlServerMvc.DataLayer", "TeamTrackerSqlServerMvc.DataLayer\TeamTrackerSqlServerMvc.DataLayer.csproj", "{E783AF14-C9DA-44AC-9B34-7EC4CF0AC599}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamTrackerSqlServerMvc.Test", "TeamTrackerSqlServerMvc.Test\TeamTrackerSqlServerMvc.Test.csproj", "{62878FA3-DB32-4158-84EF-3C507D8E88C8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamTrackerSqlServerMvc.UnitTest", "TeamTrackerSqlServerMvc.UnitTest\TeamTrackerSqlServerMvc.UnitTest.csproj", "{83621CA8-87C0-4CBF-AC0E-FBDC0973F4A8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{E783AF14-C9DA-44AC-9B34-7EC4CF0AC599}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E783AF14-C9DA-44AC-9B34-7EC4CF0AC599}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E783AF14-C9DA-44AC-9B34-7EC4CF0AC599}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62878FA3-DB32-4158-84EF-3C507D8E88C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62878FA3-DB32-4158-84EF-3C507D8E88C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62878FA3-DB32-4158-84EF-3C507D8E88C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62878FA3-DB32-4158-84EF-3C507D8E88C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83621CA8-87C0-4CBF-AC0E-FBDC0973F4A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83621CA8-87C0-4CBF-AC0E-FBDC0973F4A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83621CA8-87C0-4CBF-AC0E-FBDC0973F4A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83621CA8-87C0-4CBF-AC0E-FBDC0973F4A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

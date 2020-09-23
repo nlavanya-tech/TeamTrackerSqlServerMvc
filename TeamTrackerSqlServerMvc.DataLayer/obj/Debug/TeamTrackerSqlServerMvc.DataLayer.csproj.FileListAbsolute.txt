@@ -5,6 +5,7 @@ I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.xml
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.csprojAssemblyReference.cache
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.csproj.CopyComplete
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.exe
 I:\IIHT\SQLService\TeamTrackerSqlServerMvc\TeamTrackerSqlServerMvc.DataLayer\obj\Debug\TeamTrackerSqlServerMvc.DataLayer.pdb
